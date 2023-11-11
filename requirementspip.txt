@@ -1,0 +1,15 @@
+requests==2.31.0
+# emoji==2.7.0
+# torch==2.0.1
+nums_from_string==0.1.2
+rich==13.5.2
+pypdf==3.15.5
+tiktoken==0.4.0
+pytz==2023.3.post1
+pandas==1.5.3
+PyYAML==6.0.1
+# termcolor==2.3.0
+# jsonlines==3.1.0
+openai==0.27.8
+langchain==0.0.251
+openpyxl==3.1.2
