@@ -36,8 +36,8 @@ import sqlite3
 console = Console()
 
 
-apikey = "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"# API Key Open AI
-TOKEN ="6508124652:AAFtBfRkBABG2bjkkTkb9AEOVobDi8ICeYs" #Token Telegram 
+apikey = ""# API Key Open AI
+TOKEN ="" #Token Telegram 
 
 os.environ['OPENAI_API_KEY'] = apikey 
 
